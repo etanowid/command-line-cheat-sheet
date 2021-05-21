@@ -16,14 +16,13 @@ cd to the project directory<br/>
 `gcc file.c -o file` 	<br/>
 `./file`<br/>
 <br/>
-<br/>
+
 ### compile (clang) and run C++ code (in ics openlab)<br/>
 cd to the project directory<br/>
 `clang++ *.cpp -o obj` <br/>
-`./obj`
+`./obj`<br/>
 <br/>
-<br/>
-<br/>
+
 ### transfer file local -> remote<br/>
 1. using sftp <br/>
 `sftp> <UCINetID>@openlab.ics.uci.edu`<br/>
