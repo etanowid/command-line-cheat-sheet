@@ -61,7 +61,7 @@ ex: `general_log_file	/usr/local/mysql/data/dhcp-v044-069.log`
 <br/>
 
 
-# remote (aws ubuntu ec2 instance)
+# remote/linux (aws ubuntu ec2 instance)
 ### remove file<br/>
 `rm <file>`<br/>
 <br/>
