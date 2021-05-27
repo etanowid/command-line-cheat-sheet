@@ -116,6 +116,9 @@ create table by running 'moviedb.sql' file<br/>
 populate the moviedb table by running 'movie-data.sql' file<br/>
 `shell> mysql -u mytestuser -p --database=moviedb < /home/ubuntu/movie-data.sql`<br/>
 <br/>
+make copy/backup of a table<br/>
+`insert into employees_backup select * from employees;`<br/>
+<br/>
 <br/>
 ### maven <br/>
 (cd to project directory)<br/>
