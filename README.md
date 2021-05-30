@@ -76,7 +76,7 @@ ex: `general_log_file	/usr/local/mysql/data/dhcp-v044-069.log`
 
 ### copy file<br/>
 creates a copy of the firstFile.txt file and renames the new file to secondFile.txt <br/>
-`cp firstFile.txt secondFile.txt`
+`cp firstFile.txt secondFile.txt`<br/>
 creates a copy of the firstFile.txt file and renames the new file to secondFile.txt and moves it to otherDirectory <br/>
 `cp firstFile.txt /otherDirectory/secondFile.txt`<br/>
 <br/>
