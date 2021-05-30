@@ -128,6 +128,6 @@ to compile and build war file<br/>
 or to remove war file <br/>
 `mvn clean package`<br/>
 <br/>
-to run a stand-alone file in the project (ex. class name = VerifyPassword)v]<br/>
+to run a stand-alone file in the project (ex. class name = VerifyPassword)<br/>
 `mvn compile`<br/>
 `mvn exec:java -Dexec.cleanupDaemonThreads=false -Dexec.mainClass="VerifyPassword"`<br/>
