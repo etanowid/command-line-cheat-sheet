@@ -60,6 +60,7 @@ ex: `general_log_file	/usr/local/mysql/data/dhcp-v044-069.log`
 <br/>
 
 ### JMeter <br/>
+(download from https://jmeter.apache.org/download_jmeter.cgi)
 `tar xvf apache-jmeter-5.4.1.tgz`<br/>
 `./bin/jmeter`
 <br/>
