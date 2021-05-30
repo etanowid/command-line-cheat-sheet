@@ -58,8 +58,12 @@ ex: `general_log_file	/usr/local/mysql/data/dhcp-v044-069.log`
 4. Monitor the ".log" files under this folder. Command using "tail":<br/>
 `shell> sudo tail -f /usr/local/mysql/data/dhcp-v044-069.log`<br/>
 <br/>
-<br/>
 
+### JMeter <br/>
+`tar xvf apache-jmeter-5.4.1.tgz`<br/>
+`./bin/jmeter`
+<br/>
+<br/>
 
 # remote/linux (aws ubuntu ec2 instance)
 ### remove file<br/>
