@@ -4,13 +4,14 @@
 ### ssh into UCI openlab<br/>
 `ssh <UCINetID>@openlab.ics.uci.edu`<br/>
 <br/>
-#### compile (gcc) and run C code  (in ics openlab) <br/>
+
+* #### compile (gcc) and run C code  (in ics openlab) <br/>
 cd to the project directory<br/>
 `gcc file.c -o file` 	<br/>
 `./file`<br/>
 <br/>
 
-### compile (clang) and run C++ code (in ics openlab)<br/>
+* #### compile (clang) and run C++ code (in ics openlab)<br/>
 cd to the project directory<br/>
 `clang++ *.cpp -o obj` <br/>
 `./obj`<br/>
