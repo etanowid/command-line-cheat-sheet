@@ -4,14 +4,7 @@
 ### ssh into UCI openlab<br/>
 `ssh <UCINetID>@openlab.ics.uci.edu`<br/>
 <br/>
-
-### ssh into AWS<br/>
-`ssh -i "<pemFileName>" ubuntu@<blahblah>`<br/>
-ex:<br/>
-`ssh -i "cs122b.pem" ubuntu@blah.us-east-2.compute.amazonaws.com`<br/>
-<br/>
-
-### compile (gcc) and run C code  (in ics openlab) <br/>
+#### compile (gcc) and run C code  (in ics openlab) <br/>
 cd to the project directory<br/>
 `gcc file.c -o file` 	<br/>
 `./file`<br/>
@@ -21,6 +14,12 @@ cd to the project directory<br/>
 cd to the project directory<br/>
 `clang++ *.cpp -o obj` <br/>
 `./obj`<br/>
+<br/>
+
+### ssh into AWS<br/>
+`ssh -i "<pemFileName>" ubuntu@<blahblah>`<br/>
+ex:<br/>
+`ssh -i "cs122b.pem" ubuntu@blah.us-east-2.compute.amazonaws.com`<br/>
 <br/>
 
 ### TypeScript stuff <br/>
