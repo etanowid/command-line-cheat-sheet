@@ -23,6 +23,21 @@ cd to the project directory<br/>
 `./obj`<br/>
 <br/>
 
+### TypeScript stuff <br/>
+install ts </br>
+`npm install -g typescript`
+transcompile (to js) <br/>
+cd to root directory </br>
+`tsc --p tsconfig.json ` <br/>
+`tsc --p tsconfig.json --watch` to automatically compile <br/>
+<br/>
+
+### install live-server <br/>
+`npm install -g live-server` </br>
+
+### install nodejs </br>
+https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#using-a-node-installer-to-install-nodejs-and-npm
+
 ### transfer file local -> remote<br/>
 1. using sftp <br/>
 `sftp> <UCINetID>@openlab.ics.uci.edu`<br/>
